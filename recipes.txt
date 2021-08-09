@@ -4,7 +4,8 @@ Welcome to Learn today
 3. Microservices
 4. Rest API
 5. Spring Boot
-6. Node JS
+6. angular JS
+7. Node JS
 
 
 done my changes
